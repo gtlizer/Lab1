@@ -20,13 +20,11 @@ header{
     background-color: palegoldenrod;
     display: flex;
     justify-content: space-between;
-    border: red 1px solid;
 }
 
 h1{
     padding:0px;
     margin:0px;
-    border: green 1px solid;
 }
 
 ul{
@@ -34,7 +32,6 @@ ul{
     display: flex;
     margin: 0px;
     padding: 0px;
-    border: yellow 1px solid;
 }
 
 li{
